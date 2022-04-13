@@ -267,7 +267,7 @@ speechSynthesis.onvoiceschanged = function() {
         $voicelist.append($option);
      });
 
-      $voicelist.material_select();
+      // $voicelist.material_select();
   }
 }
 
